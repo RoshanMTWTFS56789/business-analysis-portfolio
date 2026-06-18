@@ -131,6 +131,21 @@ python -m streamlit run app.py
 
 ---
 
+## IT BA Technical Architecture Pack
+
+To strengthen the Technical Business Analyst / IT Business Analyst side of the project, I also created a technical architecture pack covering:
+
+* System architecture
+* Data flow understanding
+* API requirements
+* Integration requirements
+* KPI benefits tracking
+* Recruiter case study summary
+
+This section demonstrates how the PayFix solution could move from a portfolio MVP into a real IT-enabled business system involving case management, payment data, refund logic, fraud review, customer communication, dashboard reporting and human oversight.
+
+[View IT BA Technical Architecture Pack](./04_IT_BA_Technical_Architecture)
+
 ## Important Note
 
 This is a portfolio MVP. The dataset is synthetic and the AI logic is rule-based for demonstration purposes.
